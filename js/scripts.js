@@ -10,5 +10,5 @@ console.log(txtCharsAfter);
 
 console.log(txtCharsAfter.length/2);
 
-var partOfTxtCharsAfter = txtCharsAfter.slice (0,72);
+var partOfTxtCharsAfter = txtCharsAfter.slice (text.length/2);
 console.log(partOfTxtCharsAfter);
